@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 ![image1](assets/screenshote/product.png)
 ![image2](assets/screenshote/details1.png)
 ![image3](assets/screenshote/details.png)
-![image4](assets/screenshote/back to product and show message.png)
+![image4](assets/screenshote/bank_and_show_message.png)
